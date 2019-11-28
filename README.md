@@ -1,4 +1,13 @@
+
 # imc_baltaio
+
+![](https://img.shields.io/github/issues/GabrielAndreatto/IMC-Flutter)
+![](https://img.shields.io/github/forks/GabrielAndreatto/IMC-Flutter)
+![](https://img.shields.io/github/stars/GabrielAndreatto/IMC-Flutter)
+![](https://img.shields.io/github/license/GabrielAndreatto/IMC-Flutter)
+![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGabrielAndreatto%2FIMC-Flutter%2Fedit%2Fmaster%2FREADME.md)
+![](https://img.shields.io/appveyor/ci/:user/:repo)
+![]()
 
 A new basic Flutter project with diferent pages/layouts between Android and IOS platform.
 
