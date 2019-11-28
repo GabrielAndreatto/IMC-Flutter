@@ -2,9 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
+
+# dependencies:
+
+Masked text
+https://github.com/benhurott/flutter-masked-text
+https://pub.dev/packages/flutter_masked_text
+
+
+
+-------------------------------------------------------------------------------------
 
 A few resources to get you started if this is your first Flutter project:
 
