@@ -1,14 +1,16 @@
 # imc_baltaio
 
 A new Flutter project.
+Creating different layouts based on the platform. Android and IOS.
+Each platform with its own model.
 
 # Getting Started
 
 This project is a starting point for a Flutter application.
 
-# dependencies:
+# Dependencies:
 
-Masked text
+flutter_masked_text
 https://github.com/benhurott/flutter-masked-text
 https://pub.dev/packages/flutter_masked_text
 
