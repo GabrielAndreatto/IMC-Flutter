@@ -2,6 +2,8 @@
 
 A new basic Flutter project with diferent pages/layouts between Android and IOS platform.
 
+<img src="/Users/andreatto/Desktop/flutter-devices.png">
+
 # Getting Started
 
 This project is a starting point for a Flutter application to Android eand IOS platform.
