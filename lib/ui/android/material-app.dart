@@ -8,7 +8,7 @@ class MyMaterialApp extends StatelessWidget {
       title: 'IMC',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.lightGreen,
       ),
       home: HomePage(),
     );

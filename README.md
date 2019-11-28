@@ -1,18 +1,23 @@
 # imc_baltaio
 
-A new Flutter project.
-Creating different layouts based on the platform. Android and IOS.
-Each platform with its own model.
+A new basic Flutter project with diferent pages/layouts between Android and IOS platform.
 
 # Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application to Android eand IOS platform.
+Creating layouts based on the different and distinct Android and IOS platform.
+Each platform with its own model.
+
+Using 'Bloc', it is possible to share business rules between different Android and IOS platforms.
 
 # Dependencies:
 
 flutter_masked_text
 https://github.com/benhurott/flutter-masked-text
 https://pub.dev/packages/flutter_masked_text
+
+io 0.3.3
+https://pub.dev/packages/io
 
 # Simulators:
 

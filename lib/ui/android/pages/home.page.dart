@@ -14,7 +14,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Cálculo de IMC"),
+        title: Text("Android - Cálculo de IMC"),
       ),
       body: ListView(
         children: <Widget>[
