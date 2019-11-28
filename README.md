@@ -14,7 +14,9 @@ flutter_masked_text
 https://github.com/benhurott/flutter-masked-text
 https://pub.dev/packages/flutter_masked_text
 
+# Simulators:
 
+IOS: Use command+k to open keyboard when entering values.
 
 -------------------------------------------------------------------------------------
 
